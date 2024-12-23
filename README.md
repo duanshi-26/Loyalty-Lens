@@ -35,25 +35,6 @@ An intelligent system that predicts customer churn probability using Artificial 
    streamlit run app.py
    ```
 
-## Project Structure
-
-```
-ChurnGuard/
-│
-├── app.py                      # Streamlit web application
-├── model/
-│   ├── model.keras            # Trained ANN model
-│   ├── scaler.pkl             # Feature scaler
-│   ├── label_encoder.pkl      # Gender encoder
-│   └── geo_encoder.pkl        # Geography encoder
-│
-├── notebooks/
-│   └── model_training.ipynb   # Training notebook
-│
-├── requirements.txt           # Dependencies
-└── README.md                 # Documentation
-```
-
 ## Model Details
 
 ### Input Features
