@@ -21,7 +21,7 @@ An intelligent system that predicts customer churn probability using Artificial 
 
 1. **Clone repository:**
    ```bash
-   git clone 
+   git clone https://github.com/duanshi-26/MNITJaipur-Hackathon-Loyalty-Lens
    cd ChurnGuard
    ```
 
